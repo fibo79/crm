@@ -1,0 +1,6 @@
+#mapid { height: 580px; }
+body{ background: #f5fcff;  color: #333666; }
+section, main{ text-align: center; margin: 50 px 0;}
+.panzoom-parent { border: 2 px solid #333;}
+.panzoom-parent .panzoom{ border: 2px dashed #333;}
+.buttons { margin: 40 px 0 0;}
